@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/gemichelst/gemichelst/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys!></h1>
 
 <p align="center">
     <b>Welcome</b>
@@ -33,6 +33,8 @@
 
 ### Technologies & Frameworks
 [![Stylus](https://img.shields.io/badge/stylus-black?style=for-the-badge&logo=stylus)](https://github.com/gemichelst)
+[![Scss](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)](https://github.com/gemichelst)
+[![Pug](https://img.shields.io/badge/pug-black?style=for-the-badge&logo=pug)](https://github.com/gemichelst)
 [![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/gemichelst)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gemichelst)
 
