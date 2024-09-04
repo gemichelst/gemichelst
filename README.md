@@ -54,6 +54,9 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/gemichelst)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gemichelst)
 
+
+<!--
+
 <details>
 <p align="center">
   <a href="https://github.com/gemichelst">
@@ -70,6 +73,8 @@
   </a>
 </p>
 </details>
+
+-->
 
 <!--
 **gemichelst/gemichelst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
