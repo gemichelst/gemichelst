@@ -16,6 +16,11 @@
     </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemichelst&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gemichelst&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gemichelst&theme=algolia)
+
+
 ### Languages
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/gemichelst)
