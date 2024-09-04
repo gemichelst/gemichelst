@@ -17,10 +17,11 @@
 </p>
 
 
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemichelst&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gemichelst&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gemichelst&theme=algolia)
+<div align="center">
+
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemichelst&theme=algolia)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gemichelst&theme=algolia)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gemichelst&theme=algolia)
 
 
 ### Languages
@@ -81,4 +82,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p>
+
+
+
+</div>
