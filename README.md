@@ -1,3 +1,5 @@
+<div style="background-color: #050f2d;">
+    
 <h1 align="center">Hi, guys!></h1>
 
 <p align="center">
@@ -69,7 +71,7 @@
 </p>
 </details>
 
-
+</div>
 
 <!--
 **gemichelst/gemichelst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,6 +87,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
