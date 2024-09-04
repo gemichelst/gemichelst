@@ -55,26 +55,21 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gemichelst)
 
 
-<!--
-
 <details>
 <p align="center">
+  <!--
   <a href="https://github.com/gemichelst">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemichelst&theme=transparent" />
   </a>
-  <a href="https://github.com/gemichelst">
+  -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemichelst&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/gemichelst">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gemichelst&theme=transparent" />
-  </a>
-  <a href="https://github.com/gemichelst">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemichelst&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&langs_count=25" />
 </p>
 </details>
 
--->
+
 
 <!--
 **gemichelst/gemichelst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
